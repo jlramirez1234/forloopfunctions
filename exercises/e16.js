@@ -12,7 +12,7 @@ export function flatArrays(array) {
         flattenedArray.push(array[i][j]);
       }
     } else {
-      flattenedArray.push(array[i]);oul
+      flattenedArray.push(array[i]);
     }
   }
   return flattenedArray;
